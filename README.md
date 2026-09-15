@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sujith 👋<br><br>🎓 B.Tech Computer Science Engineering Student (2027)<br>☁️ Aspiring Cloud & Full-Stack Developer<br>💻 Java | AWS | React | SQL<br>🚀 Building cloud applications and scalable web solutions<br>🌱 Currently learning Java, Spring Boot, DSA & AWS
+Hi, I'm Sujith 👋<br><br>🎓 B.Tech Computer Science Engineering Student (2027)<br>☁️ Aspiring Cloud & Full-Stack Developer<br>💻 Python | AWS | React | SQL<br>🚀 Building cloud applications and scalable web solutions<br>🌱 Currently learning Java, Spring Boot, DSA & AWS
 
 
 ## 🌐 Socials:
